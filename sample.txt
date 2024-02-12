@@ -1,1 +1,1 @@
-s is first git file
+This is a sample file
